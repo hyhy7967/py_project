@@ -1,2 +1,2 @@
 print("나니")
-print("나니2")
+print("안녕")
